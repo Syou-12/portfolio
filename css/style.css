@@ -685,6 +685,7 @@ body.appear #container {
     h1 {
         padding-left: 0;
         text-align: center;
+        padding-top: 20px;
     }
 
     h2 {
